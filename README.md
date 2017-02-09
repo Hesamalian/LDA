@@ -9,6 +9,7 @@ W.M. Darling. A Theoretical and Practical Implementation Tutorial on Topic Model
 H. Amoualian et al, Streaming-LDA: A Copula-based Approach to Modeling Topic Dependencies in Document Streams, KDD, 2016
 
 use python3 for running this code,
+
 needs to have toy_dataset.text and vocabulary.py in same path
 
 Python3 Ldanoncollapse.py
